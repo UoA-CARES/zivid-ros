@@ -100,7 +100,7 @@ mkdir -p ~/catkin_ws/src
 Clone the Zivid ROS project into the src directory:
 ```bash
 cd ~/catkin_ws/src
-git clone https://github.com/zivid/zivid-ros.git
+git clone https://github.com/UoA-CARES/zivid-ros.git
 ```
 
 Install dependencies:
